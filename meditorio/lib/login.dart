@@ -46,7 +46,7 @@ class _LoginPageState extends State<LoginPage> {
       body: Stack(
         children: [
           Image.asset(
-            'lib/img/image_1.png', // Ruta de la imagen de fondo
+            'lib\img\image_1.png', // Ruta de la imagen de fondo
             fit: BoxFit.cover,
             width: double.infinity,
             height: double.infinity,
